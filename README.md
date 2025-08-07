@@ -9,8 +9,8 @@ A web-based application built using the **.NET Framework** with **MVC architectu
 ## 👥 Contributors
 
 🎓 **Group Number:** 3  
-🧑‍💻 **Mrityunjay Soni** — EMP ID: **134833**  
-🧑‍💻 **Ramya Ranjan** — EMP ID: **134792**  
+🧑‍💻 **Mrityunjay Soni** - EMP ID: **134833**  
+🧑‍💻 **Ramya Ranjan** - EMP ID: **134792**  
 🧑‍🏫 **Guided by:** Mr. Gananasekaran N.
 
 
@@ -75,7 +75,7 @@ Watch the demo: [📺 Click here to watch](https://drive.google.com/file/d/1GHaV
 ## 📧 Contact
 
 For any inquiries or feedback, feel free to reach out to:  
-✉️ **Mrityunjay Soni** — [mrityunjaysoni02@gmail.com](mailto:mrityunjaysoni02@gmail.com)  
-✉️ **Ramya Ranjan** — [ramyaranjannn@gmail.com](mailto:ramyaranjannn@gmail.com)
+✉️ **Mrityunjay Soni** - [mrityunjaysoni02@gmail.com](mailto:mrityunjaysoni02@gmail.com)  
+✉️ **Ramya Ranjan** - [ramyaranjannn@gmail.com](mailto:ramyaranjannn@gmail.com)
 
 ---
