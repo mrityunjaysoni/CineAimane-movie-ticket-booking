@@ -9,9 +9,9 @@ A web-based application built using the **.NET Framework** with **MVC architectu
 ## 👥 Contributors
 
 🎓 **Group Number:** 3  
-🧑‍💻 **Mrityunjay Soni** - EMP ID: **134833**  
-🧑‍💻 **Ramya Ranjan** - EMP ID: **134792**  
-🧑‍🏫 **Guided by:** Mr. Gananasekaran N.
+**Mrityunjay Soni** - EMP ID: **134833**  
+**Ramya Ranjan** - EMP ID: **134792**  
+**Guided by:** Mr. Gananasekaran N.
 
 
 ---
