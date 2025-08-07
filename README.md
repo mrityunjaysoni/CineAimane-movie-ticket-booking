@@ -68,7 +68,7 @@ CineAimane/
 
 ## 🎥 Demo
 
-Watch the demo: [📺 Click here to watch](https://github.com/mrityunjaysoni/CineAimane-movie-ticket-booking/blob/main/demo.mp4)
+Watch the demo: [📺 Click here to watch](https://drive.google.com/file/d/1GHaV40LnurKgMvmLS5YYDvqVzbkEhIN1/view?usp=sharing)
 
 ---
 
